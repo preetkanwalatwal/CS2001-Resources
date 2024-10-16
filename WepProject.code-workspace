@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "preetatwal04",
+			"path": "../../Repository/preetatwal04"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WepProject"
+	}
+}
