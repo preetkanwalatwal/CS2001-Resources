@@ -9,8 +9,6 @@ import Login from './components/Login'
 import Help from './components/Help'
 
 function App() {
-  
-
   return (
     <BrowserRouter>
       <Routes>
